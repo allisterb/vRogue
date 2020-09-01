@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vRogue.RogueSharp", "vRogue.RogueSharp\vRogue.RogueSharp.csproj", "{963E90A0-B124-4E20-9A83-3D6CFCF4E3DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vRogue.RogueSharpSample", "vRogue.RogueSharpSample\vRogue.RogueSharpSample.csproj", "{E41ECB0F-AB54-4643-8132-757E604B9160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rot.Bridge", "rot.Bridge\rot.Bridge.csproj", "{A5C85A48-6E56-41A1-9652-E402E3716C54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{963E90A0-B124-4E20-9A83-3D6CFCF4E3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{963E90A0-B124-4E20-9A83-3D6CFCF4E3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{963E90A0-B124-4E20-9A83-3D6CFCF4E3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41ECB0F-AB54-4643-8132-757E604B9160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41ECB0F-AB54-4643-8132-757E604B9160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41ECB0F-AB54-4643-8132-757E604B9160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41ECB0F-AB54-4643-8132-757E604B9160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C85A48-6E56-41A1-9652-E402E3716C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C85A48-6E56-41A1-9652-E402E3716C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C85A48-6E56-41A1-9652-E402E3716C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C85A48-6E56-41A1-9652-E402E3716C54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
