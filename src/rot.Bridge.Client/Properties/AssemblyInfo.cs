@@ -2,17 +2,14 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-using Bridge;
-
-[assembly: Convention(Notation.CamelCase, ConventionTarget.Member)]
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("rot.Bridge")]
+[assembly: AssemblyTitle("rot.Bridge.Client")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("rot.Bridge")]
+[assembly: AssemblyProduct("rot.Bridge.Client")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -23,7 +20,7 @@ using Bridge;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a5c85a48-6e56-41a1-9652-e402e3716c54")]
+[assembly: Guid("4de3daae-7dd2-45cd-94e7-f40ab8bc374b")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -37,3 +34,4 @@ using Bridge;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+
